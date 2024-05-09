@@ -1,3 +1,3 @@
 [submodule "knappschaftsverein/themes/hugo-scroll"]
-	path = knappschaftsverein/themes/hugo-scroll
+	path = themes/hugo-scroll
 	url = https://github.com/zjedi/hugo-scroll.git
