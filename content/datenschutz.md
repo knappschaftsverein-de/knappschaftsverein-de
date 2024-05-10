@@ -52,11 +52,11 @@ Wir verwenden in dieser Datenschutzerklärung unter anderem die folgenden Begrif
 Verantwortlicher im Sinne der Datenschutz-Grundverordnung, sonstiger in den Mitgliedstaaten der Europäischen Union geltenden Datenschutzgesetze und anderer Bestimmungen mit datenschutzrechtlichem Charakter ist:
 
 Knappschaftsverein Bodenmais e. V.
-Kollmaier Karl
-Auf der Kohlstatt 15
+Simone Maurer
+Miesleuthenweg 38a
 94249 Bodenmais
 Deutschland
-Tel.: 09924-512
+Tel.: +49 160 5715953
 E-Mail: Vorstand@Knappschaftsverein.de
 Website: www.knappschaftsverein.de
 3. Cookies
